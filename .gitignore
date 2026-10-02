@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+.DS_Store
+._*
+auth_state.json
+debug_page.html
+debug_screenshot.png
+build_status_results.xlsx
